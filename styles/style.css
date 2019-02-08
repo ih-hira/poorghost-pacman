@@ -1,0 +1,29 @@
+#main-frame{
+    position: absolute;
+    border: 1px solid #900C3F;
+    width: 600px;
+    height: 300px;
+    top: 10%;
+    left: 30%;
+    border-radius: 10px;
+    background: #900C3F;
+}
+.ghostImg{
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+}
+
+#ghostsPostion{
+    position: absolute;
+    top: 100px;
+    left: 200px;
+}
+
+#pacmanImg{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 115px;
+    left: 0px;
+}
